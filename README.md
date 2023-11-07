@@ -1,5 +1,5 @@
 # Number Reverser in Leo
-
+My discord: PsixXx#4110
 This is a small yet significant step into the world of programming, specifically using the Leo programming language from the Aleo project. The project is focused on a simple task: reversing a number. 
 
 ## Description
